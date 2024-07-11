@@ -1,0 +1,305 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.flex{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+
+.pink{
+    color: #DE4396;
+    
+}
+
+.dark{
+    color: #1A202C;   
+}
+a{
+    text-decoration: none;
+    color: #4A5568;
+    font-size: 16px;
+}
+
+.menu{
+    margin-top: 18px;
+}
+.menu-left img{
+    margin-right: 4px;
+}
+.menu-center a{
+    margin: 0px 48px;
+}
+.menu-center{
+    margin-right: 220px;
+}
+.menu-right a{
+    background-color: #6675F7;
+    padding: 14px 25px;
+    border-radius: 5px;
+    color: #FAFAFA;
+}
+
+.main{
+    margin: 69px 191px 106px 104px;
+}
+.main-left h1{
+    font-size: 53px;
+    width: 520px;
+}
+.main-left p{
+    font-size: 18px;
+    width: 531px;
+    margin-bottom:75px;
+}
+.main-left a{
+    background-color: #6675F7;
+    padding: 14px 25px;
+    border-radius: 5px;
+    color: #FAFAFA;
+    
+}
+
+.services{
+    background-color: #F9F9FF;
+    padding: 46px  181px 116px 180px;
+}
+
+.servieces-card{
+    background-color: #ffffff;
+    margin: 63px 40px;
+    padding: 38px 16px;
+}
+
+.servieces-card2{
+    border: #F76680 1px solid;
+    margin-top: 199px;
+}
+
+.develop-left {
+    margin-right: 96px;
+}
+.develop-left h2{
+    color: #3a3e47;
+    font-size: 35px;
+    width: 474px;
+}
+
+.develop-left p{
+    color: #718096;
+    font-size: 18px;
+    width: 535px;
+}
+
+.develop-left a{
+    color: #57007B;
+    font-size: 16px;
+    margin-right: 15px;
+}
+
+.develop-left img{
+    margin-right: 419px;
+    margin-top: 51px;
+}
+.black{
+    color: #000000;
+}
+.customers{
+    text-align: center;
+    margin-top: 124px;
+}
+
+.customers h2{
+    color: #1A202C;
+    font-size: 35px;
+    padding-left: 450px;
+    padding-right: 450px;
+}
+
+
+.customers p{
+    color: #718096;
+    font-size: 18px;
+    padding-left: 300px;
+    padding-right: 300px;
+}
+.customer-card{
+    margin: 66px 76px;
+}
+.customer-card h3{
+    color: #A0AEC0;
+
+    font-size: 14px;
+}
+.customer-card h4{
+    color: #E2E8F0;
+
+    font-size: 11px;
+}
+.customer-card-active h3{
+    color: #57007B ;
+}
+.customer-card-active h4{
+    color: #000000 ;
+}
+
+.way{
+    text-align: center;
+}
+.way h2{
+    color:#1A202C;
+    font-size: 35px;
+}
+.way-left{
+    text-align: left;
+    margin: 124px;
+}
+
+.team-inside-card{
+    margin-left: -160px;
+}
+.team-inside-card2{
+    margin-left: -130px;
+}
+
+.ceo-inside{
+    margin-left: -230px;
+}
+
+.ceo-inside2{
+    margin-left: -190px;
+}
+.way-right{
+    margin: 100px;
+}
+.way-left h3{
+    color:#1A202C;
+    font-size: 28px;
+    
+}
+.way-left p{
+    font-size: 18px;
+}
+.way-left h4{
+    font-size: 18px;
+}
+.way-left h5{
+    font-size: 16px;
+    margin-left: 15px;
+    width: 700px;
+}
+.way-left img{
+    height: 87px;
+}
+
+.ceo{
+    margin-top: 25px;
+    margin-right: 486px;
+}
+.ceo-left img{
+    width: 41px;
+    height: 41px;
+}
+.ceo-right{
+    margin-left: 10px;
+}
+.ceo-right h3{
+    color:#1A202C;
+    font-size: 16px;
+}
+.ceo-right h4{
+    margin-top: 1px;
+    color:#718096;
+    font-size: 13px;
+}
+
+.our-design{
+    text-align: center;
+}
+.our-design h2{
+    font-size: 35px;
+    margin-bottom: 80px;
+}
+.our-desig-card-left{
+    margin-right: 10px;
+}
+.our-desig-card-right h3{
+    color: #1A202C;
+    font-size: 20px;
+}
+.our-desig-card-right p{
+    color: #4A5568;
+    font-size: 14px;
+    width: 453px;
+}
+.our-desig-card{
+    margin: 50px;
+    text-align: left;
+}
+
+.stack{
+    text-align: center;
+}
+
+.stack h2{
+    color: #1A202C;
+    font-size: 35px;
+}
+.stack-menu a{
+    color: #1A202C; 
+    font-size: 18px;
+    margin: 0px 60px;
+    margin-bottom: 73px;
+}
+.active-stack a{
+    font-size: 18px;
+    color: #F76680;
+}
+.active-stack img{
+    display: block;
+    position: relative;
+    top: -20px;
+    left: -104px;
+}
+.stack-card-img{
+    margin: 0px 93px;
+}
+.non-flex{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.res{
+    text-align: center;
+    margin-top: 96px;
+}
+
+.res h2{
+    color: #1A202C;
+    font-size: 35px;
+}
+
+.resources{
+    margin-top: 66px;
+}
+
+.resources-card{
+    margin: 10px 60px;
+}
+
+.resources-card p{
+    color: #2D3748;
+    font-size: 16px;
+}
+.resources-card-inside a{
+    color: #57007B;
+    font-size: 16px;
+}
+.resources-card-inside img{
+    margin-left: 15px;
+}
